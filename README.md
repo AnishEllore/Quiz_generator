@@ -1,7 +1,5 @@
 # Quiz generator
 
-Quiz generating application in which you can add,delete, modify questions and generate quiz
-
 This is a windows application it enables user to generate random quizs.
 
 User can add, delete or modify questions in three different subjects(MAths,Physics,Chemistry).
