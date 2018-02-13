@@ -1,15 +1,19 @@
 # Quiz generator
 
-This is a windows application it enables user to generate random quizs.
+This is a windows application, it enables user to generate random quizs.
 
-User can add, delete or modify questions in three different subjects(MAths,Physics,Chemistry).
+User can add, delete or modify questions for three different subjects(MAths,Physics,Chemistry).
 
-There are three question types namely MCQ type,T or F type,blank type.
+User can add  three types of question namely MCQ type,T or F type,blank type.
 
-This apllication is protected by normal username and a password.
+This application is protected by normal username and a password so that only admin can access it.
 
-Quiz questions and answers can be generated to file.
+Generated quiz questions and answers can be sent to a file.
 
 It has some decent gui which is created using swing.
+
+# Caution
+
+If you use it you need to change the path where these questions are being stored and where you are generating random quiz answers and questions. 
 
 Feel free to use this quiz generator :)
